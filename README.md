@@ -76,13 +76,13 @@ This project analyzes hospital readmission data to identify high-risk factors an
 ## Dashboard Snapshots
 
 ### Overview Tab:
-![Overview Tab](/visuals/Overview%20Tab.png)
+![Overview Tab](/Overview%20Tab.png)
 
 ### Risk Drivers Tab:
-![Risk Drivers Tab](/visuals/Risk%20Drivers%20Tab.png)
+![Risk Drivers Tab](/Risk%20Drivers%20Tab.png)
 
 ### Financial Impact Tab:
-![Financial Impact Tab](/visuals/Financial%20Impact%20Tab.png)
+![Financial Impact Tab](/Financial%20Impact%20Tab.png)
 
 ## Age Grouping
 
