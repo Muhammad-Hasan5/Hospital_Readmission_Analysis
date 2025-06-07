@@ -25,7 +25,9 @@ This project analyzes hospital readmission data to identify high-risk factors an
 - Charts: 
     1. Monthly readmission trend 
     2. top diagnoses 
-    3. department-wise readmissions.   
+    3. department-wise readmissions.
+
+ ![Overview Tab](/Overview%20Tab.png)
 
 ### 🔹 Risk Driver Tab
 - This section enables early identification of vulnerable patients and supports targeted clinical interventions to reduce readmission rates.
@@ -43,6 +45,8 @@ This project analyzes hospital readmission data to identify high-risk factors an
 - Explores relationships between diagnosis lab abnormalities, and readmissions.
 - Includes charts on abnormal labs, age groups, and top lab tests linked to returns.
 
+  ![Risk Drivers Tab](/Risk%20Drivers%20Tab.png)
+
 ### 🔹 Financial Impact Tab
 - Charts:
 
@@ -53,6 +57,8 @@ This project analyzes hospital readmission data to identify high-risk factors an
 - Compares cost of readmitted vs. non-readmitted patients.
 - Highlights top 100 high-burden patients.
 - Departmental billing insights with readmission percentages.
+
+  ![Financial Impact Tab](/Financial%20Impact%20Tab.png)
 
 ## 🔍 Key Insights
 
@@ -73,16 +79,6 @@ This project analyzes hospital readmission data to identify high-risk factors an
 - PostgreSQL 
 - Data Source: Simulated hospital EHR data
 
-## Dashboard Snapshots
-
-### Overview Tab:
-![Overview Tab](/Overview%20Tab.png)
-
-### Risk Drivers Tab:
-![Risk Drivers Tab](/Risk%20Drivers%20Tab.png)
-
-### Financial Impact Tab:
-![Financial Impact Tab](/Financial%20Impact%20Tab.png)
 
 ## Age Grouping
 
