@@ -86,9 +86,13 @@ Every year, U.S. hospitals lose billions to avoidable readmissions. Beyond the f
 ## 🔍 Key Insights
 
 ✅ Departments like Cardiology and ICU have the highest readmission rates—warranting better discharge planning and follow-up.
+
 ✅ Abnormal lab results show strong ties to repeat visits, making early diagnostics a critical intervention point.
+
 ✅ Geriatric patients, often with multiple comorbidities, require holistic care planning.
+
 ✅ Readmission costs rose from $0.20B to $0.23B—a trend projected to increase without action.
+
 ✅ Predictive modeling shows a potential spike in readmission rates post-April 2025, emphasizing the need for preventive strategies now.
 
 ##  🛠 Tools Used
