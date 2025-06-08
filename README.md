@@ -91,7 +91,7 @@ Every year, U.S. hospitals lose billions to avoidable readmissions. Beyond the f
 
 ✅ Geriatric patients, often with multiple comorbidities, require holistic care planning.
 
-✅ Readmission costs rose from $0.20B to $0.23B—a trend projected to increase without action.
+✅ Readmission costs rose from $0.6B to $0.7B—a trend projected to increase without action.
 
 ✅ Predictive modeling shows a potential spike in readmission rates post-April 2025, emphasizing the need for preventive strategies now.
 
